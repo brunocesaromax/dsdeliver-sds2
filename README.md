@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-Aplicação web: https://bruno-cesar-sds2.netlify.app/
-
 DS-Deliver é uma aplicação full stack web e mobile construída durante o acompanhamento do evento __Semana DevSuperior 2.0__ organizado pela DevSuperior.
 
 A aplicação consiste em pedidos e entrega de comida pela internet.
