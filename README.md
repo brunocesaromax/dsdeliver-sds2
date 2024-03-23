@@ -73,7 +73,7 @@ Pré-requisitos: node >= 10.16, npm >= 5.6
   1 - Clonar o repositório: 
   
   ```bash 
-  git clone https://github.com/brunocesaromax/lancamentos.git
+  git clone https://github.com/brunocesaromax/dsdeliver-sds2.git
   ```
   
   
@@ -103,7 +103,7 @@ Pré-requisitos: node >= 10.16, npm >= 5.6, expo-cli >= 4
   1 - Clonar o repositório: 
   
   ```bash 
-  git clone https://github.com/brunocesaromax/lancamentos.git
+  git clone https://github.com/brunocesaromax/dsdeliver-sds2.git
   ```
   
   
